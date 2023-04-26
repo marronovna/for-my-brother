@@ -1,0 +1,17 @@
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button_frog {
+  display: flex;
+  align-items: center;
+  max-height: 100px;
+  overflow: hidden;
+  margin: 50px;
+}
+
+.button_frog_img {
+    max-height: inherit;
+}
